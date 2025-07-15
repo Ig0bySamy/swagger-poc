@@ -1,0 +1,13 @@
+swagger: "2.0"
+info:
+  title: POC Vulnerabilidade Swagger
+  version: "1.0.0"
+  x-logo:
+    url: https://i.imgur.com/1HSsVXz.png
+paths:
+  /:
+    get:
+      summary: Endpoint de teste
+      responses:
+        "200":
+          description: OK
