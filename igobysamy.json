@@ -1,0 +1,12 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "PoC - Swagger Vulnerability Test by Ig0bySamy",
+    "description": "<h2>Swagger Remote Config Test</h2><p><b>By Samara Gama (Ig0bySamy)</b></p><img src='https://i.imgur.com/8Km9tLL.jpg' width='300'><p>Se você está vendo essa imagem, o Swagger permitiu carregar JSON remoto.</p>",
+    "version": "1.0.0"
+  },
+  "host": "example.com",
+  "basePath": "/",
+  "schemes": ["https"],
+  "paths": {}
+}
