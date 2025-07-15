@@ -1,0 +1,9 @@
+{
+  "url": "https://raw.githubusercontent.com/Ig0bySamy/swagger-poc/refs/heads/main/xss30.yaml",
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/Ig0bySamy/swagger-poc/refs/heads/main/xss30.yaml",
+      "name": "Foo"
+    }
+  ]
+}
